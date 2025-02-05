@@ -1,5 +1,9 @@
 package main
 
+// ////////////////////////////////////////////////////////////////
+// Grupa: 1 Łódź                                                 //
+// Wykonał: Szymon Niewiadomski 122861 | Daniel Stasiak 122896   //
+// ////////////////////////////////////////////////////////////////
 func main() {
 	backend := NewGameService()
 	WelcomeScren()
